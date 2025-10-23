@@ -1,26 +1,18 @@
-# Edupepe Website
+# Edupepe Website (Final)
 
-A modern single-page landing site for Edupepe — a meme token with a purpose.
+This is a ready-to-deploy Next.js + TailwindCSS single-page landing for Edupepe.
 
-## 🚀 How to Run Locally
+How to run locally:
+1. npm install
+2. npm run dev
+3. open http://localhost:3000
 
-1. Install dependencies:
-   ```bash
-   npm install
-   ```
+Files included:
+- pages/_app.js
+- pages/index.js
+- styles/globals.css
+- tailwind.config.js
+- postcss.config.js
+- public/whitepaper.pdf (placeholder)
 
-2. Run the development server:
-   ```bash
-   npm run dev
-   ```
-
-3. Open [http://localhost:3000](http://localhost:3000)
-
----
-
-### Stack
-- Next.js
-- TailwindCSS
-- Framer Motion
-
-© 2025 Edupepe. All rights reserved.
+If deploying to Vercel, connect this project directly and Vercel will detect Next.js.
