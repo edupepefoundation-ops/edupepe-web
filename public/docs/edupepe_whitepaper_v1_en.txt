@@ -1,0 +1,46 @@
+Edupepe Whitepaper v1.0
+
+Introduction
+In a world where digital innovation often focuses on profit and speculation, Edupepe emerges with a different purpose — to transform the power of memes and blockchain into a real movement for humanity. Edupepe was born from a simple yet powerful dream: to help children in orphanages and those from underprivileged families gain access to proper education, starting from Indonesia, and eventually expanding to other regions in need.
+
+Mission & Vision
+Mission: Build and repair schools in underdeveloped areas, support orphanages, and empower communities through transparency and technology.
+Vision: A world where meme culture funds education — one laugh at a time.
+
+Tokenomics
+Token Name: Edupepe (EDUPEPE)
+Total Supply: 100,000,000,000 EDUPEPE
+Distribution:
+- 40% Public Sale (40,000,000,000)
+- 25% Charity & Education Fund (25,000,000,000)
+- 15% Liquidity Pool (15,000,000,000)
+- 10% Marketing & Partnerships (10,000,000,000)
+- 10% Team & Development (10,000,000,000)
+
+Charity Mechanism
+- 25% of total supply is reserved for the Charity & Education Fund.
+- Funds are stored in a transparent on-chain charity wallet.
+- Community members can propose candidate projects; votes determine disbursement priorities.
+- Impact reports with photos, receipts, and chain transactions will be published regularly.
+
+Roadmap
+Phase 1 — Launch (Q4 2025)
+- Website live, Whitepaper v1.0 released.
+- Token smart contract audited and deployed.
+- Presale & initial fundraising.
+Phase 2 — Growth (Q1–Q2 2026)
+- Listing on DEX, first school renovation project completed.
+- Partnerships with local NGOs and community groups.
+Phase 3 — Expansion (Q3 2026 onwards)
+- Regional expansion, DAO governance, and global partnerships.
+
+Team
+- Founder: Sandy Meliala — Visionary Leader
+- Developer: Edupepe Foundation Dev Team
+
+Legal & Risk
+Edupepe is a community-driven token with charity goals. This is not financial advice. Token purchases carry risk. We commit to transparency but do not guarantee returns.
+
+Contact
+Telegram: https://t.me/+tt2j1dbPwvZjNjA1
+Website: https://edupepe-web.vercel.app/
