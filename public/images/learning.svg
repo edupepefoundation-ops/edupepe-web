@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+<rect width="200" height="200" rx="20" fill="#F0F9FF"/>
+<rect x="30" y="40" width="140" height="30" rx="6" fill="#7DD3FC"/>
+<rect x="30" y="80" width="140" height="80" rx="8" fill="#fff" stroke="#E6EEF3"/>
+<circle cx="70" cy="120" r="18" fill="#60A5FA"/>
+<text x="110" y="125" font-size="16" text-anchor="middle" fill="#0F172A" font-family="Verdana">Learning</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+<rect width="200" height="200" rx="20" fill="#FFFBEB"/>
+<rect x="30" y="60" width="140" height="90" rx="8" fill="#FDE68A" stroke="#F59E0B"/>
+<rect x="60" y="100" width="40" height="50" fill="#fff"/>
+<rect x="110" y="100" width="30" height="50" fill="#fff"/>
+<text x="100" y="45" font-size="18" text-anchor="middle" fill="#92400E" font-family="Verdana">Little School</text>
+</svg>

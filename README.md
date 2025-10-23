@@ -1,18 +1,14 @@
-# Edupepe Website (Final)
+# Edupepe Website (Final v4)
 
-This is a ready-to-deploy Next.js + TailwindCSS single-page landing for Edupepe.
+This package includes:
+- Next.js pages with Tailwind-ready CSS import.
+- SVG vector assets in /public/images (logo, hero, pepe, school, learning).
+- PNG fallback images in /public/images.
+- Placeholder whitepaper at /public/whitepaper.pdf
 
 How to run locally:
 1. npm install
 2. npm run dev
-3. open http://localhost:3000
+3. Open http://localhost:3000
 
-Files included:
-- pages/_app.js
-- pages/index.js
-- styles/globals.css
-- tailwind.config.js
-- postcss.config.js
-- public/whitepaper.pdf (placeholder)
-
-If deploying to Vercel, connect this project directly and Vercel will detect Next.js.
+Then deploy to Vercel by connecting this repo.

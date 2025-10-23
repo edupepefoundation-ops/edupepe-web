@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240">
+<rect rx="28" width="240" height="240" fill="#E6FFFA"/>
+<circle cx="120" cy="96" r="56" fill="#34D399"/>
+<text x="120" y="132" font-size="64" text-anchor="middle" fill="#ffffff" font-family="Verdana">EP</text>
+<path d="M60 170 q60 30 120 0" stroke="#FDE68A" stroke-width="10" fill="none" stroke-linecap="round"/>
+</svg>
